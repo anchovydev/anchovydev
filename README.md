@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 'sup, i'm anchovy
 
-<!--
-**anchovydev/anchovydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm an idiot who sometimes blacks out and creates spaghetti 
 
-Here are some ideas to get you started:
+## 🏆 achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✉️ contact
+
+hit me up on discord! Anchovy#6686
+
+## 🤓 things i work with
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+## 📚 experience
+
+## 📢 socials
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/anchovydev)
+
+## alright, bye
