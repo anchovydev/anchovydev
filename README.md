@@ -24,7 +24,11 @@ hit me up on discord! Anchovy#6686
 
 ## 📢 socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/anchovydev) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anchovydev808)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/anchovydev)
+
+## 🤔why no insta?
+
+account got deactivated and it's been 30 days. no more insta, i guess.
 
 ## alright bye
 
