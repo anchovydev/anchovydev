@@ -6,7 +6,7 @@ i'm an idiot who sometimes blacks out and creates spaghetti
 
 ## ✉️ contact
 
-hit me up on discord! Anchovy#6686
+hit me up on discord! anchovy#6686
 
 ## 🤓 things i work with
 
@@ -21,14 +21,6 @@ hit me up on discord! Anchovy#6686
 ### 🦦 other
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-## 📢 socials
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/anchovydev)
-
-## 🤔why no insta?
-
-account got deactivated and it's been 30 days. no more insta, i guess.
 
 ## alright bye
 
